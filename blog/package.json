@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby_blog_terumi",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "A simple Gatsby",
+  "version": "0.0.1",
+  "author": "terumikawano <terumi.contact.web@gmail.com>",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "dotenv": "^16.0.3",
